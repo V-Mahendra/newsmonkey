@@ -1,0 +1,85 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Jesse Watters exposes the goal of Biden's CNN town hall - Fox News",
+            "description": "Jesse Watters questions why CNN held a town hall with the president when Biden is \"not capable of thinking clearly\"",
+            "url": "https://www.foxnews.com/media/jesse-watters-biden-town-hall-cnn",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48c72650-3b36-4e98-a16f-b7ef63653885/06b8372e-78ff-490c-b73e-8e40081e770c/1280x720/match/image.jpg",
+            "publishedAt": "2021-10-23T01:58:34Z",
+            "content": "Jesse Watters revealed the purpose of Biden's town hall on CNN Friday on \"Tucker Carlson Tonight,\" saying it was to make Americans \"aware\" of who is really in charge of the United States. \r\nJESSE WAT… [+1061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "The Facebook whistleblower's documents show how 'Stop the Steal' evaded monitors - NPR",
+            "description": "Internal Facebook documents show how the pro-Trump Stop the Steal movement proliferated on the world's biggest social network between the presidential election and the Jan. 6 insurrection.",
+            "url": "https://www.npr.org/2021/10/22/1048543513/facebook-groups-jan-6-insurrection",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/22/gettyimages-1230459621-protester_wide-add37c9a4a03038d5f23d52396a8216fa2ecdfba.jpg?s=1400",
+            "publishedAt": "2021-10-23T01:50:50Z",
+            "content": "A protester unleashes a smoke grenade in front of the U.S. Capitol building on Jan. 6, 2021.\r\nBloomberg/Bloomberg via Getty Images\r\nHours after polls closed on Nov. 3, angry Donald Trump supporters o… [+15139 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Ellie Harrison",
+            "title": "Alec Baldwin shooting: Star told gun was safe before firing fatal shot, as 911 call released - The Independent",
+            "description": "Alec Baldwin shooting: Actor fatally shoots Halyna Hutchins with prop gun",
+            "url": "https://www.independent.co.uk/arts-entertainment/films/news/alec-baldwin-prop-gun-misfire-rust-b1943248.html",
+            "urlToImage": "https://static.independent.co.uk/2021/10/22/17/urnpublicidap-1.org70c29dcef58f464396050a794984ef65?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-10-23T00:54:50Z",
+            "content": "Alec Baldwin shooting: Aerial shots of film set after prop gun misfired, killing cinematographer\r\nAlec Baldwin says his heart is broken after firing a prop gun that killed cinematographer Halyna Hutc… [+7151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Matt Snyder",
+            "title": "Red Sox vs. Astros score: Live updates from ALCS Game 6 as Houston tries to clinch World Series berth - CBS sports.com",
+            "description": "The Astros are trying to advance to the Fall Classic for the third time in five years",
+            "url": "https://www.cbssports.com/mlb/news/red-sox-vs-astros-score-live-updates-from-alcs-game-6-as-houston-tries-to-clinch-world-series-berth/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/22/38095a85-1fff-4154-8bb4-b9d022800315/thumbnail/1200x675/6ad39037f4db97290152a5b3b4647d24/astroscelebrate.jpg",
+            "publishedAt": "2021-10-23T00:38:00Z",
+            "content": "The Houston Astros are set to host the Boston Red Sox for Game 6 of the 2021 American League Championship Series. The series has been a dramatic one to this point, with incredibly high highs and low … [+1124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Salvador Rodriguez",
+            "title": "Facebook whistleblower releases documents to multiple news outlets showing company knows the harm it causes - CNBC",
+            "description": "Facebook was hit with reports from multiple news outlets based on documents provided by Frances Haugen, a former employee and whistleblower.",
+            "url": "https://www.cnbc.com/2021/10/22/facebook-hit-by-a-barrage-of-reports-from-consortium-of-news-outlets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106951846-1633372633233-gettyimages-1182969866-cs023623_2019102342926248.jpeg?v=1634734221",
+            "publishedAt": "2021-10-23T00:18:00Z",
+            "content": "Facebook on Friday was hit with multiple reports stemming from documents provided to news outlets by Frances Haugen, a former employee turned whistleblower.\r\nThe reports cite internal company researc… [+2587 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Jackson",
+            "title": "Here's what you missed in Week 7 of Elizabeth Holmes' Theranos trial - Business Insider",
+            "description": "Emails showed Theranos' former senior product manager was told to change reference ranges to make test results seem normal when they actually weren't.",
+            "url": "https://www.businessinsider.com/elizabeth-holmes-theranos-trial-week-7-what-happened-2021-10",
+            "urlToImage": "https://i.insider.com/61731f9e4f281c001296b1a3?width=1200&format=jpeg",
+            "publishedAt": "2021-10-23T00:17:15Z",
+            "content": "How Theranos tried to make unusual test results seem normal\r\nDaniel Edlin, a college friend of Elizabeth Holmes' brother, Christian, and Theranos' former senior product manager, was pressed on his pr… [+3809 chars]"
+        }
+        
+    ]
+}

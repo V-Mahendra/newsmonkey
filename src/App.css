@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+ .fxc{
+  border-radius: "5px";
+  background-color: " #686868";
+ }
